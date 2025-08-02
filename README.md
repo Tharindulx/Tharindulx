@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tharindu Lakshan</h1>
 
-<!--
-**Tharindulx/Tharindulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c)](https://skillicons.dev)
+
+
+
+ 
+<br>
+ 
+<div style="width:100%;display:flex;justify-content:center;">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tharindulx&show_icons=true&locale=en&layout=compact" alt="Tharindulx" />
+</div>
